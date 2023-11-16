@@ -1,0 +1,11 @@
+C:\Users\nicfl\Desktop\Project\venv\Scripts\python.exe C:/Users/nicfl/Desktop/Project/main_textblob.py
+|    5000/   5000 batches | time:  1.08s |
+54.2%
+|    8117/   8117 batches | time:  1.69s |
+28.939263274608845%
+|    2125/   2125 batches | time:  0.44s |
+28.28235294117647%
+|    1044/   1044 batches | time:  0.21s |
+30.268199233716476%
+
+Process finished with exit code 0

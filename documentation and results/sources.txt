@@ -1,0 +1,13 @@
+Twitter Dataset:
+https://www.kaggle.com/datasets/saurabhshahane/twitter-sentiment-dataset
+
+C-LSTM:
+https://arxiv.org/pdf/1511.08630.pdf
+https://towardsdatascience.com/word2vec-with-pytorch-implementing-original-paper-2cd7040120b0
+
+Textblob:
+https://textblob.readthedocs.io/en/dev/quickstart.html
+
+spaCy:
+https://towardsdatascience.com/building-sentiment-classifier-using-spacy-3-0-transformers-c744bfc767b
+https://spacy.io/models/en#en_core_web_trf
