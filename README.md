@@ -19,6 +19,7 @@ To evaluate these datasets I have used:
 ## Results
 
 ||C-LSTM|textblob|spaCy|
+|--|--|--|--|
 |movies|	39,35%|	29,16%	|41,09%|
 |twitter	|64,95%|	54,20%|	93,30%|
 
