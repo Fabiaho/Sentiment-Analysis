@@ -14,7 +14,7 @@ In the second part I compared the results with textblob and spaCy.
 To evaluate these datasets I have used:
 
 * A twitter dataset from Kaggle with three different sentiment labels
-* Movie reviews from Rotten Tomatoes (which were used in [this paper](https://aclanthology.org/D13-1170/))
+* Movie reviews from Rotten Tomatoes with five different sentiment labels (which were used in [this paper](https://aclanthology.org/D13-1170/))
 
 ## Results
 
